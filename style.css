@@ -1,0 +1,17 @@
+section{
+    border: 2px solid red;
+}
+.celulardaepocadomarcio{
+    display: flex;
+    align-items: center;  /* aliamento de eixo transfersal */
+    justify-content: center;  /* aliamento de eixo principal */
+    gap: 2rem; /* espaçamento entre os intens do display flex */
+}
+.celulardaepocadomarcio img{
+    width: 20rem;
+}
+.celulardaepocadomarcio p{
+    width: 30rem;
+    text-align: center;
+}
+.
